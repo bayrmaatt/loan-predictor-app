@@ -4,7 +4,7 @@ This is a Streamlit-based web application that predicts whether a loan applicati
 
 ## Live App
    Try the deployed app here:  
-   [https://loan-predictor-bayarmaa.streamlit.app](https://loan-predictor-bayarmaa.streamlit.app)
+   [https://loan-predictor-bayarmaa.streamlit.app](https://loan-predictor-app-bayrmaatt.streamlit.app)]
 
 ## Features
 - Cleaned and preprocessed dataset (feature engineering and encoding)
@@ -33,8 +33,8 @@ This is a Streamlit-based web application that predicts whether a loan applicati
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/bayrmaatt/loan-approval-app
-   cd loan-approval-app
+   git clone https://github.com/bayrmaatt/loan-predictor-app
+   cd loan-predictor-app
    
    pip install -r requirements.txt
 
