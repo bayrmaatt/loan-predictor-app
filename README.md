@@ -23,7 +23,7 @@ This is a Streamlit-based web application that predicts whether a loan applicati
 - `credit_score`
 - `Assets`
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Pandas, Scikit-learn
 - Streamlit
